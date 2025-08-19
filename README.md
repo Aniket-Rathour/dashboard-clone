@@ -1,12 +1,61 @@
-# React + Vite
+# 🌈📊 Dashboard Clone  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and modern **Dashboard UI** built using **⚡ Tailwind CSS** ✨  
+Just a fun project I created to **learn Tailwind** by replicating a dashboard layout 🚀  
 
-Currently, two official plugins are available:
+🔗 **[👉 Live Demo – Click Here](https://dashboard-clone-kohl.vercel.app/)**  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🎨 Preview  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="2560" height="1385" alt="dash" src="https://github.com/user-attachments/assets/f0f0d2b8-f208-4136-88e0-1e83debb9560" />
+
+---
+
+## ⚡ Features  
+✅ Responsive sidebar navigation  
+✅ Overview cards with stats (`Amount Pending`, `Income`, `Orders`)  
+✅ Team section with profile avatars 👨‍💻👩‍💻  
+✅ Popular products list with 💰 earnings  
+✅ Income chart 📈 (UI only)  
+✅ **100% built with Tailwind utilities** 🎯  
+
+---
+
+## 🛠️ Tech Stack  
+- ⚛️ **React** – Component-based UI  
+- 🎨 **Tailwind CSS** – Utility-first CSS framework  
+- ⚡ **Vite** – Super-fast build tool  
+
+---
+
+🎯 Purpose
+
+This project is a practice ground for Tailwind CSS 🛠️
+I built it to explore grids, flexbox, responsive design & components with Tailwind magic 💫
+
+🚧 What’s Next?
+
+🔹 Add interactivity with React states
+
+🔹 Fetch dynamic data from an API
+
+🔹 Add charts using Chart.js or Recharts
+
+🔹 Polish with animations 🎥
+
+👨‍💻 Author
+
+Aniket Rathour
+
+## 📂 Getting Started  
+
+Clone the repo & run locally 👇  
+```bash
+git clone https://github.com/Aniket-Rathour/dashboard-clone.git
+cd dashboard-clone
+npm install
+npm run dev
+
+
